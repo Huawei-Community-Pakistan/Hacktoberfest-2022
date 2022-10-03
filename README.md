@@ -21,7 +21,7 @@ If you have not contributed to hacktoberfest or any open-source software previou
 <div>
 <ol>
 
-<a href=""> <li>Respository one</li></a>
+<a href="https://github.com/Huawei-Community-Pakistan/cloudverse"> <li>Repository to add Resources which can help the community to become a Cloud Engineer for free.</li></a>
 <a href=""> <li>Repository two</li></a>
 <a href=""> <li>Repository three</li></a>
 <a href=""> <li>Repository four</li></a>
